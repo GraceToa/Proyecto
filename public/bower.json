@@ -1,0 +1,12 @@
+{
+  "name": "Proyecto",
+  "version": "0.0.1",
+  "authors": [
+    "GraceToa <gracetoa29@gmail.com>"
+  ],
+  "description": "Paquetes del frontend",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
